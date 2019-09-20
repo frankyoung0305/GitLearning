@@ -3,3 +3,4 @@ halo dev
 add dev
 
 remote add dev
+local add dev
